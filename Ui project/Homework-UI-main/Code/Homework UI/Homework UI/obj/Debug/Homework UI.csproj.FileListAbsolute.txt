@@ -1,0 +1,21 @@
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\bin\Debug\Homework UI.exe.config
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\bin\Debug\Homework UI.exe
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\bin\Debug\Homework UI.pdb
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework UI.csprojAssemblyReference.cache
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework_UI.Form1.resources
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework_UI.Properties.Resources.resources
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework UI.csproj.GenerateResource.cache
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework UI.csproj.CoreCompileInputs.cache
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework UI.exe
+H:\Compsco\Weekly Assignments\Homework interface\Code\Homework UI\Homework UI\obj\Debug\Homework UI.pdb
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\bin\Debug\Homework UI.exe.config
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\bin\Debug\Homework UI.exe
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\bin\Debug\Homework UI.pdb
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework_UI.Form1.resources
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework_UI.Properties.Resources.resources
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework UI.csproj.GenerateResource.cache
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework UI.csproj.CoreCompileInputs.cache
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework UI.exe
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework UI.pdb
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework_UI.Assignment.resources
+C:\Users\liami\Desktop\Computer Science C#\Ui project\Homework-UI-main\Code\Homework UI\Homework UI\obj\Debug\Homework UI.csproj.AssemblyReference.cache
